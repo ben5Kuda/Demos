@@ -14,7 +14,7 @@ namespace Azure.Host.Controllers
     [HttpGet]
     public ActionResult<IEnumerable<string>> Get()
     {
-      return new string[] { Environment.MachineName, Environment.MachineName };
+      return new string[] { Environment.MachineName, "This is a demo" };
     }
 
     // GET api/values/5
