@@ -1,0 +1,15 @@
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\bin\Debug\netcoreapp2.1\Azure.Host.deps.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\bin\Debug\netcoreapp2.1\Azure.Host.runtimeconfig.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\bin\Debug\netcoreapp2.1\Azure.Host.runtimeconfig.dev.json
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\bin\Debug\netcoreapp2.1\Azure.Host.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\bin\Debug\netcoreapp2.1\Azure.Host.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.csproj.CoreCompileInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.RazorAssemblyInfo.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.RazorAssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.AssemblyInfoInputs.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.AssemblyInfo.cs
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.RazorTargetAssemblyInfo.cache
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.dll
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.pdb
+C:\Users\kmushore\Documents\Visual Studio 2017\Projects\AzureApi\Azure.Host\obj\Debug\netcoreapp2.1\Azure.Host.csprojAssemblyReference.cache
